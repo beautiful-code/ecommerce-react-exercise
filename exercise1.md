@@ -11,8 +11,8 @@
 
 ### Requirements
 1. Have two pages `/` and `/products/:id`.
-2. `/` page should return all the products (Match your screen with the above image).
-3. `/products/:id` should return comming soon text.
+2. `/` page should return all the products (Match your output with the above image).
+3. `/products/:id` should return `Coming Soon!` text.
 4. Based on URL, the links should be automatically highlighted. HINT - Use `<NavLink>`
 5. Keep the `Create Product` button dummy as of now.
 
