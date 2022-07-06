@@ -6,7 +6,7 @@
 2. Install react router package - `npm install react-router-dom@6`
 3. Run `npm start` and you should see your application up and running.
 
-## Goal
+## Goal - 1
 ![Goal ](images/e1.png)
 
 ### Requirements
@@ -19,6 +19,20 @@
 ### HINTS/TIPS
 1. Break the Mockup into components before working on it.
 2. Use flexbox to get the layout for Products.
+
+
+
+## Goal - 2
+![Goal ](images/e2.png)
+
+### Requirements
+1. `/products/:id` page should return all the products (Match your output with the above image).
+2. Add `Add to Cart Button`
+
+### HINTS/TIPS
+1. Just build the static page.
+
+
 
 ### BONUS
 1. Try to get the hover effect like below - 
