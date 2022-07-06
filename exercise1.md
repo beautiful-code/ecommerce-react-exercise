@@ -11,7 +11,7 @@
 
 ### Requirements
 1. Have two pages `/` and `/products/:id`.
-2. `/` page should return all the products (Match your output with the above image).
+2. `/` page should return all the products (Match your output with the image under GOAL 1).
 3. `/products/:id` should return `Coming Soon!` text.
 4. Based on URL, the links should be automatically highlighted. HINT - Use `<NavLink>`
 5. Keep the `Create Product` button dummy as of now.
@@ -26,7 +26,7 @@
 ![Goal ](images/e2.png)
 
 ### Requirements
-1. `/products/:id` page should return all the products (Match your output with the above image).
+1. `/products/:id` page should show the products details (Match your output with the image under GOAL 2).
 2. Add `Add to Cart Button`
 
 ### HINTS/TIPS
