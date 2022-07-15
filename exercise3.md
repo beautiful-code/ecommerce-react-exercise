@@ -13,3 +13,4 @@ Enhacing Product show page
 
 
 ### Hints/Tips
+1. Use variant.image and variant.color properties to implement variants functionality.
